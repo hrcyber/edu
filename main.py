@@ -1,7 +1,7 @@
 import streamlit as st
 import sqlite3
 import pandas as pd
-from fpdf import FPDF
+from fpdf import *
 import os
 
 # Initialize the SQLite database
